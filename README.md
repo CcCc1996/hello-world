@@ -1,2 +1,2 @@
 # hello-world
-hello，programe's world
+hello，program's world
